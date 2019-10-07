@@ -1,4 +1,4 @@
-package vendingMachine;
+package vending_machine;
 
 public class Product {
     public Product(){

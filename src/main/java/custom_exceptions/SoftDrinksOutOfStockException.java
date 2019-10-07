@@ -1,4 +1,4 @@
-package customExceptions;
+package custom_exceptions;
 
 public class SoftDrinksOutOfStockException extends ProductNotFoundException {
     public SoftDrinksOutOfStockException() {
